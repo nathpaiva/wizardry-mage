@@ -1,2 +1,2 @@
-# css-mage
+# wizardry-mage
 Skin Default for Magento
